@@ -1,7 +1,7 @@
 # FinalReport
 - Title:2dtestgames
 
-![スクリーンショット](https://github.com/nitrx/2dtestgames/blob/gh-pages/sss.png?raw=true "サンプル")
+![スクリーンショット](https://github.com/nitrx/2dtestgames/blob/gh-pages/sss.png?raw=true "スクリーンショット")
 
 - 操作方法  
 矢印キー:移動  
