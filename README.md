@@ -8,4 +8,6 @@
 Fキー:弾を撃つ  
 Spaceキー:ジャンプ  
 
+製作期間:1週間  
+
 [2dtestgames](https://nitrx.github.io/FinalReport/)
